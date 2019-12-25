@@ -8,5 +8,5 @@ title: Analytics Zoo
 
 </div><!-- /.blurb -->
 
-![analytics zoo](/assets/analytics_zoo.png)
+[![analytics zoo](/assets/analytics_zoo.png)](https://analytics-zoo.github.io/master/#)
 
