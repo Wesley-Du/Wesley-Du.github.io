@@ -6,7 +6,7 @@ title: Analytics Zoo
 
 [![analytics zoo logo](/assets/analytics_zoo.png)](https://analytics-zoo.github.io/master/#)
 
-A unified Analytics + AI platform for **distributed TensorFlow, Keras, PyTorch, Ray and BigDL on Apache Spark**
+A Unified Analytics + AI Platform for **distributed TensorFlow, Keras, PyTorch, Ray and BigDL on Apache Spark**
 
 ---
 
