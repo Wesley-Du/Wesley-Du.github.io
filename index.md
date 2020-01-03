@@ -44,7 +44,7 @@ You may want to develop your AI solution using Analytics Zoo if:
 
 - You want to transparently scale your application from a laptop to large clusters with "zero" code changes.
 
-- You want to deploy your AI pipelines to existing YARN or K8S clusters WITHOUT any modifications to the clusters.
+- You want to deploy your AI pipelines to existing YARN or K8S clusters *WITHOUT* any modifications to the clusters.
 
 - You want to automate the process of applying machine learning (such as feature engineering, hyperparameter tuning, model selection and distributed inference). 
 
