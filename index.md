@@ -40,7 +40,7 @@ High-Level **ML Workflow** that automates the process of building large-scale ma
 
 You may want to develop your AI solution using Analytics Zoo if:
 
-- You want to easily prototype the entire end-to-end pipeline that apply AI models (e.g., TensorFlow, Keras, PyTorch, BigDL, etc.) to production big data.
+- You want to easily prototype the entire end-to-end pipeline that applies AI models (e.g., TensorFlow, Keras, PyTorch, BigDL, etc.) to production big data.
 
 - You want to transparently scale your application from a laptop to large clusters with "zero" code changes.
 
