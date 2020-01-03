@@ -40,31 +40,30 @@ High-Level **ML Workflow** that automates the process of building large-scale ma
 
 You may want to develop your AI solution using Analytics Zoo if:
 
-- You want to build End-to-End pipelines that apply AI models to production big data.
+- You want to easily prototype the entire end-to-end pipeline that apply AI models (e.g., TensorFlow, Keras, PyTorch, BigDL, etc.) to production big data.
 
-- You want to transparently scale your application from a laptop to a cluster with zero code change.
+- You want to transparently scale your application from a laptop to large clusters with "zero" code changes.
 
-- You want to deploy your AI pipelines to standard YARN or K8S cluster without modifying the cluster.
+- You want to deploy your AI pipelines to existing YARN or K8S clusters WITHOUT any modifications to the clusters.
 
-- You want to automate the process of applying machine learning. 
+- You want to automate the process of applying machine learning (such as feature engineering, hyperparameter tuning, model selection and distributed inference). 
 
 
 ---
 
 # <font size="6">How to use Analytics Zoo? </font>
 
-Check the links below to get started with Analytics Zoo. For more information, please visit the Analytics Zoo [Document Website](https://analytics-zoo.github.io/).
+Check the links below to start using Analytics Zoo:
+
+- Quick start with Analytics Zoo [Docker]()
 
 - [Install](https://analytics-zoo.github.io/master/##PythonUserGuide/install/) Analytics Zoo
 
-- Run the Analytics Zoo [Examples](https://analytics-zoo.github.io/master/#PythonUserGuide/examples/) 
+- Visit the Analytics Zoo [Document Website](https://analytics-zoo.github.io/)
 
-- Check out the [Reference Use cases](https://analytics-zoo.github.io/master/#ProgrammingGuide/usercases-overview/) 
+- Check the [Powered By](https://analytics-zoo.github.io/master/#powered-by/) & [Presentations](https://analytics-zoo.github.io/master/#presentations/)
 
-- Check out the [Customer Cases](https://analytics-zoo.github.io/master/#powered-by/)
-
-- Check out the [Tech Talks](https://analytics-zoo.github.io/master/#presentations/) on conferences 
-
+- Contact us on [Google User Group](https://groups.google.com/forum/#!forum/bigdl-user-group) or subscribe [Mail List](mailto:bigdl-user-group+subscribe@googlegroups.com)
 
 ---
 
