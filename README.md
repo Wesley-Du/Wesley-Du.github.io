@@ -3,7 +3,7 @@ visit [wesley-du.github.io](https://wesley-du.github.io) for test website.
 
 dfedfd
 
-test [A link here](#A-link-here)
+test [A link here](#1.-A-link-here)
 
 ste
 
@@ -60,7 +60,7 @@ a
 a
 
 a
-## A link here
+## 1. A link here
 
 adfdf
 
