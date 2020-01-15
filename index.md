@@ -3,10 +3,8 @@ layout: default
 title: Analytics Zoo
 ---
 
-<div align="center">
-   <p align="center"> <img src="/assets/logo.jpg" height=240px; weight=320px;"><br></p>
-</div>
-      
+![logo](/assets/logo.jpg)
+
 _A unified Data Analytics and AI platform for **distributed TensorFlow, Keras, PyTorch, Apache Spark/Flink and Ray**_
 
 ---
@@ -15,9 +13,7 @@ _A unified Data Analytics and AI platform for **distributed TensorFlow, Keras, P
 
 Analytics Zoo provides a unified data analytics and AI platform that seamlessly unites TensorFlow, Keras, PyTorch, Spark, Flink and Ray programs into an integrated pipeline, which can transparently scale from a laptop to large clusters to process production big data.
 
-<div align="center">
-   <p align="center"> <img src="/assets/blockdiagram.jpg" height=240px; weight=718px;"><br></p>
-</div>
+![blockdiagram](/assets/blockdiagram.jpg)
 
 
 * **Integrated Analytics and AI Pipelines** for easily prototyping and deploying end-to-end AI applications. 
