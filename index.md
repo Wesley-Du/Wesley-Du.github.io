@@ -4,7 +4,7 @@ title: Analytics Zoo
 ---
 
 <div align="center">
-   <p align="center"> <img src="/assets/analytics-zoo.png" height=240px; weight=320px;"><br></p>
+   <p align="center"> <img src="/assets/logo.jpg" height=240px; weight=320px;"><br></p>
 </div>
       
 _A unified Data Analytics and AI platform for **distributed TensorFlow, Keras, PyTorch, Apache Spark/Flink and Ray**_
