@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Analytics Zoo
+---
 
 ![logo](/assets/logo.jpg)
 
